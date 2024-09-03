@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CDS.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SingLEFT0000" x="1174" y="604" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0001" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0002" x="1174" y="604" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0003" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0004" x="1174" y="0" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0005" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0006" x="0" y="311" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0007" x="581" y="311" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0008" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0009" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0010" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0011" x="1174" y="0" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0012" x="0" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0013" x="593" y="0" width="581" height="303" frameX="-29" frameY="-315" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLEFT0014" x="0" y="0" width="593" height="311" frameX="-23" frameY="-311" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0000" x="1174" y="604" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0001" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0002" x="1174" y="604" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0003" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0004" x="1174" y="0" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0005" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0006" x="0" y="311" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0007" x="581" y="311" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0008" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0009" x="1174" y="302" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0010" x="581" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0011" x="1174" y="0" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0012" x="0" y="613" width="581" height="302" frameX="-29" frameY="-316" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0013" x="593" y="0" width="581" height="303" frameX="-29" frameY="-315" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRIGHT0014" x="0" y="0" width="593" height="311" frameX="-23" frameY="-311" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

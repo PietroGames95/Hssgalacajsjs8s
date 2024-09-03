@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dog.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Dance_idle0028" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0027" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0026" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0025" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0024" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0023" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0022" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0021" x="723" y="456" width="337" height="476" frameX="-165" frameY="-85" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0020" x="1075" y="453" width="330" height="466" frameX="-176" frameY="-95" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0019" x="1075" y="453" width="330" height="466" frameX="-176" frameY="-95" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0018" x="1075" y="453" width="330" height="466" frameX="-176" frameY="-95" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0017" x="0" y="933" width="327" height="467" frameX="-179" frameY="-94" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0016" x="0" y="933" width="327" height="467" frameX="-179" frameY="-94" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0015" x="0" y="933" width="327" height="467" frameX="-179" frameY="-94" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0014" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0013" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0012" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0011" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0010" x="0" y="452" width="335" height="481" frameX="-160" frameY="-79" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0009" x="335" y="452" width="336" height="478" frameX="-159" frameY="-82" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0008" x="335" y="452" width="336" height="478" frameX="-159" frameY="-82" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0007" x="335" y="452" width="336" height="478" frameX="-159" frameY="-82" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0006" x="723" y="0" width="352" height="456" frameX="-141" frameY="-105" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0005" x="1075" y="0" width="354" height="453" frameX="-139" frameY="-108" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0004" x="1075" y="0" width="354" height="453" frameX="-139" frameY="-108" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0003" x="363" y="0" width="360" height="450" frameX="-134" frameY="-111" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0002" x="363" y="0" width="360" height="450" frameX="-134" frameY="-111" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0001" x="0" y="0" width="363" height="452" frameX="-131" frameY="-109" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="Dance_idle0000" x="0" y="0" width="363" height="452" frameX="-131" frameY="-109" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
