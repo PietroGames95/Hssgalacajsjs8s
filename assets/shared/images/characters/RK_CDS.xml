@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RK_CDS.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SingLeft0000" x="615" y="587" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0001" x="0" y="587" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0002" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0003" x="0" y="1166" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0004" x="0" y="587" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0005" x="615" y="1166" width="615" height="577" frameX="-12" frameY="-59" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0006" x="1845" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0007" x="1230" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0008" x="1873" y="1150" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0009" x="1845" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0010" x="1230" y="1166" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0011" x="615" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0012" x="0" y="0" width="629" height="587" frameX="-5" frameY="-55" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingLeft0013" x="1845" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0000" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0001" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0002" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0003" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0004" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0005" x="1258" y="579" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0006" x="1258" y="0" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0007" x="1258" y="0" width="615" height="579" frameX="-12" frameY="-57" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0008" x="1873" y="0" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0009" x="1873" y="0" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0010" x="0" y="1745" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0011" x="629" y="0" width="629" height="587" frameX="-5" frameY="-55" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0012" x="1873" y="575" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="SingRight0013" x="1873" y="575" width="615" height="575" frameX="-12" frameY="-61" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
